@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Guia </title>
+</head>
+<body>
+    <h1>Guia de tags HTML</h1>
+    <p>Este é um guia básico explicando e demonstrando algumas das principais tags HTML aprendidas durante as aulas práticas.</p>
+    <hr>
+    <h2>Tags de Títulos</h2>
+    <p>As tags de títulos variam de <strong>h1</strong> a <strong>h6</strong> sendo o <mark>h1</mark> o mais importante</p>
+    <h3>Exemplo de uso:</h3>
+
+    <h1>Titulo h1</h1>
+    <h2>Título h2</h2>
+    <h3>Título h3</h3>
+    <h4>Título h4</h4>
+    <h5>Título h5</h5>
+    <h6>Título h6</h6>
+
+    <hr>
+    <h2>Tags de texto</h2>
+    <p> Temos algumas tags de texto, que modificam de alguma forma alguns detalhes do texto.</p> 
+    <p>Temos a tag <strong>Strong</strong> que serve para deixar o texto em negrito, temos também a tag <i>i</i> que serve para deixar o texto em itálico. Podemos também usar <mark>mark</mark> para destacar partes do texto e por fim temos também as tags usando <sub>subscrito</sub> e <sup>sobrescrito</sup> para fórmulas matemáticas ou referências.</p>
+    <hr>
+    <h2>Listas ordenadas e não ordenadas</h2>
+
+    <p>Na lista ordenada utilizamos as tags "ol" e "li" para fazer uma lista que a ordem importa.</p>
+    <ol>
+        <li>primeiro item</li>
+        <li>segundo item</li>
+        <li>terceiro item</li>
+    </ol>
+
+    <p>Temos a lista não ordenada, onde a ordem dos items não importam tanto.</p>
+
+    <ul>
+        <li>item A</li>
+        <li>item B</li>
+        <li>item C</li>
+    </ul>
+    <hr>
+    <h2>Podemos fazer citações com algumas tags:</h2>
+    <p> 
+        Utilizamos a tag "blockquote", onde faz com que a citação fica em bloco.
+    </p>
+    <blockquote>"Essa é uma citação em bloco."</blockquote>
+</body>
+</html>
